@@ -1,0 +1,1 @@
+CONNECTION_STRING = "https://postgres://kvwbhwrsdhnctz:40f332760dd31c7cd2dc11e91ca5cce05f908f34b270980172a0e4cf63068558@ec2-54-83-38-174.compute-1.amazonaws.com:5432/d4t46f8o9oh9ur?ssl=true"
